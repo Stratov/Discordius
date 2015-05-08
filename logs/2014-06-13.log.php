@@ -1,0 +1,4 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2014-06-13 12:56:43 +00:00 --- error: Uncaught Kohana_Exception: L'image spécifié /var/www/virtual/flipidingue.fr.nf/htdocs/admin/../images/tilesets/tileset grotte22222.png n'a pas été trouvée. Merci de vérifier que l'image existe bien avec la fonction file_exists avant sa manipulation. dans le fichier /var/www/virtual/flipidingue.fr.nf/htdocs/system/libraries/Image.php à la ligne 75
+2014-06-13 13:02:23 +00:00 --- error: Uncaught Kohana_Exception: L'image spécifié /var/www/virtual/flipidingue.fr.nf/htdocs/admin/../images/tilesets/tileset grotte222222.png n'a pas été trouvée. Merci de vérifier que l'image existe bien avec la fonction file_exists avant sa manipulation. dans le fichier /var/www/virtual/flipidingue.fr.nf/htdocs/system/libraries/Image.php à la ligne 75

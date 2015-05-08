@@ -1,0 +1,97 @@
+html, body
+{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+html
+{
+	background: url('../img/background.jpg') no-repeat center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#main
+{
+	height: 940px;
+	width: 1720px;
+	margin: 0 auto;
+}
+
+#main .inner
+{
+	margin: 0 auto;
+	height: 100%;
+	background: url('../img/immovable_elements.png') no-repeat ; 
+}
+
+#main .inner #identification
+{
+	width: 285px;
+	height: 180px;
+	position: absolute;
+	margin: 95px 0px 0px 215px;
+}
+
+#main .inner #identification .info
+{
+	height: 60px;
+}
+
+#main .inner #identification .info:nth-child(1)
+{
+	background: url('../img/identification_infos/bienvenue.png') no-repeat;
+	margin: 10px 0px 0px 60px;
+}
+
+#main .inner #identification .info:nth-child(2)
+{
+	/* PSEUDO */
+}
+
+#main .inner #identification .info:nth-child(3)
+{
+	/* MDP */
+}
+
+#main .inner #main_buttons
+{
+	width: 290px;
+	height: 265px;
+	position: absolute;
+	margin: 560px 0px 0px 220px;
+}
+
+#main .inner #main_buttons a
+{
+	height: 55px;
+	cursor: pointer;
+	display: block;
+}
+
+#main .inner #main_buttons a:nth-child(1)
+{
+	background: url('../img/main_buttons/accueil.png') no-repeat;
+	margin: 7px 0px 0px 35px;
+}
+
+#main .inner #main_buttons a:nth-child(2)
+{
+	background: url('../img/main_buttons/news.png') no-repeat;
+	margin: 12px 0px 0px 60px;
+}
+
+#main .inner #main_buttons a:nth-child(3)
+{
+	background: url('../img/main_buttons/bourse.png') no-repeat;
+	margin: 10px 0px 0px 50px;
+}
+
+#main .inner #main_buttons a:nth-child(4)
+{
+	background: url('../img/main_buttons/communaute.png') no-repeat;
+	margin: 20px 0px 0px 15px;
+}

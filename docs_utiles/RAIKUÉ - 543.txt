@@ -1,0 +1,153 @@
+Crime24-Stealer
+Date/Time: 10/03/2013 17:20:33
+PC Name: RAIKUÉ
+Windows Version: Windows 7 / Vista
+
+
+
+ 
+
+
+
+
+Application: Steam
+Username: clalk
+
+
+
+
+
+
+
+Application: Google Chrome
+Host: http://www.facebook.com/login.php
+Username: shepard1996@live.fr
+Password: Nitendo64
+
+
+Application: Google Chrome
+Host: http://www.t411.me/users/signup/
+Username: ichigo37100
+Password: ViceIt44
+
+
+Application: Google Chrome
+Host: https://www.emusic.com/registration/1.html
+Username: shepard1996@live.fr
+Password: Thelust40
+
+
+Application: Google Chrome
+Host: http://www.empireuniverse2.fr/
+Username: shepard1996@live.fr
+Password: atlantis
+
+
+Application: Google Chrome
+Host: http://maestia.fr.alaplaya.net/session/new
+Username: byakurai37100
+Password: Thelust40
+
+
+Application: Google Chrome
+Host: http://australis.eu2.looki.fr/login.php
+Username: shepard1996@live.fr
+Password: atlantis
+
+
+Application: Google Chrome
+Host: http://mathenpoche.ac-bordeaux.fr/gestion/index.php
+Username: 3A.HOUDIER.Pierre
+Password: cd9d335f
+
+
+Application: Google Chrome
+Host: http://fr-fr.facebook.com/
+Username: shepard1996@live.fr
+Password: Thelust40
+
+
+Application: Google Chrome
+Host: http://www.t411.me/users/signup/
+Username: mugetsu37100
+Password: Nitendo64
+
+
+Application: Google Chrome
+Host: http://www.t411.me/users/signup/
+Username: byakurai37100
+Password: Thelust40
+
+
+Application: Google Chrome
+Host: https://www.facebook.com/index.php
+Username: shepard1996@live.fr
+Password: AdVitaAeternam
+
+
+Application: Google Chrome
+Host: http://www.minefield.fr/inscription.html
+Username: shepard1996@live.fr
+Password: Theburnoutinferno45
+
+
+Application: Google Chrome
+Host: http://www.facebook.com/index.php
+Username: pierre-yves1996@hotmail.fr
+Password: ViceIt44
+
+
+Application: Google Chrome
+Host: http://maestia.fr.alaplaya.net/session/new
+Username: mugetsu37100
+Password: Thelust40
+
+
+Application: Google Chrome
+Host: https://secure.ncsoft.com/cgi-bin/playncCreate.pl
+Username: shepard1996@live.fr
+Password: Thelust40
+
+
+Application: Google Chrome
+Host: http://www.aionfreetoplay.com/website/landing/elyos;jsessionid=65aeb68f3b49263cf76a047e6123
+Username: shepard1996@live.fr
+Password: Thelust40
+
+
+Application: Google Chrome
+Host: http://www.gunbladesaga.fr/lpage/red
+Username: shepard1996@live.fr
+Password: Thelust40
+
+
+Application: Google Chrome
+Host: http://www.dragonwar.fr/compte/creer-un-compte
+Username: byakurai37100
+Password: Thelust40
+
+
+Application: Google Chrome
+Host: http://www.ivalice-serveur.com/index.php
+Username: byakurai37100
+Password: TheLust40
+
+
+Application: Google Chrome
+Host: https://fr-fr.facebook.com/
+Username: shepard1996@live.fr
+Password: EvaMontalvo18
+
+
+Application: Google Chrome
+Host: https://www.aeriagames.com/account/login
+Username: FullBring37100
+Password: EvaMontalvo18
+
+
+Application: Google Chrome
+Host: https://accounts.google.com/ServiceLogin
+Username: shepard1996@live.fr
+Password: TheLust40
+
+

@@ -1,0 +1,6 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2014-02-22 09:37:24 +00:00 --- error: Uncaught Kohana_Exception: L'image spécifié /var/www/virtual/flipidingue.fr.nf/htdocs/images/tilesets/ n'a pas été trouvée. Merci de vérifier que l'image existe bien avec la fonction file_exists avant sa manipulation. dans le fichier system/libraries/Image.php à la ligne 75
+2014-02-22 14:21:28 +00:00 --- error: Uncaught Kohana_Exception: L'image spécifié /var/www/virtual/flipidingue.fr.nf/htdocs/images/tilesets/ n'a pas été trouvée. Merci de vérifier que l'image existe bien avec la fonction file_exists avant sa manipulation. dans le fichier system/libraries/Image.php à la ligne 75
+2014-02-22 14:21:42 +00:00 --- error: Uncaught Kohana_Exception: L'image spécifié /var/www/virtual/flipidingue.fr.nf/htdocs/images/tilesets/ n'a pas été trouvée. Merci de vérifier que l'image existe bien avec la fonction file_exists avant sa manipulation. dans le fichier system/libraries/Image.php à la ligne 75
+2014-02-22 17:50:37 +00:00 --- error: Uncaught Kohana_Exception: L'image spécifié /var/www/virtual/flipidingue.fr.nf/htdocs/images/tilesets/ n'a pas été trouvée. Merci de vérifier que l'image existe bien avec la fonction file_exists avant sa manipulation. dans le fichier system/libraries/Image.php à la ligne 75

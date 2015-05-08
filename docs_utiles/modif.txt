@@ -1,0 +1,13 @@
+Raccourcis : 
+
+modifier le message se trouvant au dessus du chat : 
+modules\global\i18n\fr_FR\form.php
+
+Modifier le menu : 
+modules\game\views\user
+
+Le fichier qui affiche les pseudos, c'est 
+modules/games/controllers/home.php (ligne 67)
+
+Le fichier qui permet de modifier la couleur des admins est :
+modules/games/controllers/home.php (la balise bbcode) ligne 68

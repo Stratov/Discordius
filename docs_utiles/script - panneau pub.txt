@@ -1,0 +1,25 @@
+<?php
+  $Opub = new Pub_Model;
+  $Aselect = array('id_element' => $this->data->id_module);
+  $pub_selected = $Opub->select($Aselect );
+  if($pub_selected){
+    echo "<center><font color='#DE3163'><u>Message écris par un villageois :</u> <br /></font></center>";
+    echo " <br> <center>".$pub_selected->description."</center> ";
+  } ?>
+
+<?php if(!$pub_selected){?>
+<form method="post">
+  <input type="hidden" name="id_element" value="<?php echo $this->data->id_module;?>">
+    <input type="hidden" name="post_pub" value="1">
+<strong><font color='#DE3163'><u>Ce panneaux vous permet d'écrire ce que vous voulez.</u></FONT>
+<br>
+<center><br>Vous avez le droit :
+<br>
+<br>- D'écrire un simple message.
+<br>- De donner n'importe quels conseils.
+<br>- Ou de faire de la publicité.</strong> <br />
+<br>
+  Description de votre message : <br />
+  <textarea name="description"></textarea><br />
+    <input type="submit" value="Valider">
+  </form><?php } ?>

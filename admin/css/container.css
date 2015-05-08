@@ -1,0 +1,25 @@
+.container_row {
+	text-align: center;
+}
+
+#objects_list div.container_row > div,
+#container_content div.container_row > div {
+	text-align: left;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+
+#objects_list div.container_row .object_image,
+#objects_list div.container_row .object_quantity,
+#container_content div.container_row .object_image,
+#container_content div.container_row .object_quantity
+{
+	width: 6%;
+	margin: 3%;
+}
+
+#objects_list div.container_row .object_description,
+#container_content div.container_row .object_description {
+	width: 70%;
+}

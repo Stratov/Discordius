@@ -1,0 +1,4 @@
+2) Modifier la gestion des touches
+3) Modifier les fonctions réseaux (chargement des maps, synchronisation entre joueurs)
+4) Faire ne sorte que la musique ne se recharge pas a chaque changement de map
+5) Créer des horaires d'ouverture pour les batiments 
