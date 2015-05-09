@@ -55,13 +55,13 @@ function initMap()
 		divMapContener = $('#mapContener');
 		divInventory = $('.table-line inventaire bottom_map_user');
 		
-		divMapContener.css("height",$(window).height()-150+"px");
-		divMap.css("height",$(window).height()-150+"px");
+		divMapContener.css("height",Math.floor(($(window).height()-128) / 32) * 32+"px");
+		divMap.css("height",Math.floor(($(window).height()-128) / 32) * 32+"px");
 		
 		widthMap = tableMap.width();
 		heightMap = tableMap.height();
 		widthContener = divMap.width();
-		heightContener = divMap.height();						
+		heightContener = Math.floor(($(window).height()-128) / 32) * 32;			
 		tailleMaxMapX = Math.floor( parseInt(widthMap) / size_case );
 		tailleMaxMapY = Math.floor( parseInt(heightMap) / size_case );		
 		
@@ -174,7 +174,7 @@ function move( direction, id, myPerso, other_user )
 				else if( ( widthMap - widthContener + leftMap ) <= 0 && type == 'o' && position(id, 'left') > Math.round( ( widthContener - 32 ) / 2 ) )
 						plusX = '-';
 				
-				else if( ( heightMap - heightContener + topMap ) == 0 && type == 's')
+				else if( ( heightMap - heightContener + topMap ) <= 0 && type == 's')
 						moinsY = '+';
 				
 				else if( ( heightMap - heightContener + topMap ) == 0 && type == 'n' && position(id, 'top') > Math.round( ( heightContener - 32 ) / 2 ) )

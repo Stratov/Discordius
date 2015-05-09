@@ -33,7 +33,7 @@
 					left: -143px;
 					background: url('../images/template/bg-body.png') repeat scroll 0 0 #E7E7E7;
 					width: 132px;
-					height: 607px;
+					height: 100%;
 					border: #CCC 1px solid;
 					color: #7E7E7E;
 					padding-left: 10px;">
@@ -85,9 +85,9 @@
 			<div id="contacts" style="float: right;
 					position: absolute;
 					top: 0;
-					right: -143px;
-					width: 132px;
-					height: 607px;
+					right: -141px;
+					width: 130px;
+					height: 100%;
 					border: #CCC 1px solid;
 					color: #7E7E7E;
 					padding-left: 10px;">
