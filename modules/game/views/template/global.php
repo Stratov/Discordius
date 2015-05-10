@@ -99,7 +99,7 @@
 										<strong>Tous droits réservés</strong>
 								</div>
 								<div class="spacer"></div>-->
-				<center>Un souci ? Une question ?<br><br><u>Notre Skype:</u></center>madgames00 <i>(Admin)</i><br>Lord_pingouin <i>(Codeur)</i><br>satcha77 <i>(Codeur)</i><br>thunderkino <i>(Compositeur)</i><br><br><center><b>Meuporg 2014 ©</b></center>
+				<center>Un souci ? Une question ?<br><br><u>Notre Skype:</u></center>madgames00 <i>(Admin)</i><br>Lord_pingouin <i>(Codeur)</i><br>kurotsuchi93 <i>(Codeur)</i><br>thunderkino <i>(Compositeur)</i><br><br><center><b>Meuporg 2014 ©</b></center>
 			</div>
 			
 			<!-- Rendered in {execution_time} seconds, using {memory_usage} of memory -->
